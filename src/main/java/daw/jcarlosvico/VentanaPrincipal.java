@@ -37,7 +37,7 @@ public class VentanaPrincipal extends JFrame{
         // Posición y tamaño del JFrame
         this.setBounds(600, 150, ANCHO_FRAME, ALTO_FRAME);
         // Título de la ventana
-        this.setTitle("Generador de códigos QR");
+        this.setTitle("Generador de códigos QR Raquel Moyano");
         // Ventana no redimensionable
         this.setResizable(false);
         // Comportamiento al cerrar la ventana
